@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string> /**
+  * ${1:Enter workaround description}
+  *
+  * @workaround
+  * @affected   ${2:Enter affected browsers (e.g: IE 5.x/Win, IE6)}
+  * @css-for    ${3:Enter browsers that are adressed by the workaround (e.g: IE 5.x/Win, IE6)}
+  * @valid      ${4:Enter validation status (yes|no)}
+  */
+
+$TM_SELECTED_TEXT</string>
+	<key>name</key>
+	<string>Workaround</string>
+	<key>tabTrigger</key>
+	<string>cdwa</string>
+	<key>uuid</key>
+	<string>1F9668E7-FB84-4C92-8E68-4A6E31143CC3</string>
+</dict>
+</plist>

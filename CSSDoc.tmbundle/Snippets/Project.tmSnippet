@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/**
+  * ${1:Projekttitel}
+  *
+  * @copyright       ${2:$TM_COPYRIGHT}
+  * @author          ${3:$TM_AUTHOR}
+  * @version         ${4:Version}
+  *
+  * @revision        ${5:Revision}
+  * @lastmodified    ${6:Last Modified Date}
+  */
+
+$TM_SELECTED_TEXT</string>
+	<key>name</key>
+	<string>Project</string>
+	<key>tabTrigger</key>
+	<string>cdproject</string>
+	<key>uuid</key>
+	<string>2775B685-7FEC-435E-A6FF-8A7DA5002A81</string>
+</dict>
+</plist>

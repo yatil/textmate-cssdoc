@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string> /**
+  * @subsection ${1:Enter section title}
+  *
+  * ${2:Enter section description}
+  * @see     ${3:Enter an optional reference url}
+  */
+
+$TM_SELECTED_TEXT</string>
+	<key>name</key>
+	<string>Subsection</string>
+	<key>tabTrigger</key>
+	<string>cdss</string>
+	<key>uuid</key>
+	<string>567B70F1-A215-48CE-A1A8-2C74576C3D77</string>
+</dict>
+</plist>
